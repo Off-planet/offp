@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/offplanet-application/static/js/main.7caf0a0d.js",
+    "static/media/logo-loop.gif": "/offplanet-application/static/media/logo-loop.6b0934dadd9dd401b160.gif",
+    "static/media/6.svg": "/offplanet-application/static/media/6.b88b10c0017afccfc5ff979af54a0faf.svg",
+    "static/media/5.svg": "/offplanet-application/static/media/5.2b2b1270295d75a956a0b017576366d9.svg",
+    "static/media/2.svg": "/offplanet-application/static/media/2.be3432562bff0485b9bf4e30dbc28e8b.svg",
+    "static/media/1.svg": "/offplanet-application/static/media/1.bfa3ad1fad2eaf3089bf0e928245b953.svg",
+    "static/media/3.svg": "/offplanet-application/static/media/3.9124e288a714f4d8236bbab1b06f439c.svg",
+    "static/media/4.svg": "/offplanet-application/static/media/4.f8ed8a8da3e5de7f84127227a655f19c.svg",
+    "static/media/8.svg": "/offplanet-application/static/media/8.31081bcdbc07192217b10588f6fdc41c.svg",
+    "static/media/Grimnotes.ttf": "/offplanet-application/static/media/Grimnotes.6f3436972ed919875952.ttf",
+    "index.html": "/offplanet-application/index.html",
+    "main.7caf0a0d.js.map": "/offplanet-application/static/js/main.7caf0a0d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7caf0a0d.js"
+  ]
+}

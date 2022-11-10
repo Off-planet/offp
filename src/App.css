@@ -1,0 +1,41 @@
+@font-face {
+  font-family: Grimnotes;
+  src: url(./font/Grimnotes.ttf);
+}
+
+.App {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  font-family: Grimnotes;
+}
+
+.App-content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 40px;
+}
+
+@media (min-width: 650px) {
+  .App {
+    background-position: center center;
+  }
+
+  .App-content {
+    align-items: flex-end;
+    justify-content: center;
+  }
+
+  .card {
+    width: "50%";
+    height: "25vw";
+    margin-top: "10%";
+    background-color: "#16DF98";
+    border-color: "black";
+    border-style: "solid";
+  }
+}
